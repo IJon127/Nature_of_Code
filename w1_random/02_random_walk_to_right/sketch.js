@@ -1,3 +1,13 @@
+"use strict";
+/**************************************************************************
+  P5 Random Walk to Right
+  REFERENCES:
+  # Nature of Code 2nd Edition Introduction : https://nature-of-code-2nd-edition.netlify.app/introduction/
+  created 01 Feb 2023
+  modified 01 Feb 2023
+  by I-Jon Hsieh
+ **************************************************************************/
+
 let walkers = [];
 
 function setup() {

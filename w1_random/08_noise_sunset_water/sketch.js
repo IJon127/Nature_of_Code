@@ -1,3 +1,11 @@
+"use strict";
+/**************************************************************************
+  Sunset Water
+  created 02 Feb 2023
+  modified 02 Feb 2023
+  by I-Jon Hsieh
+ **************************************************************************/
+
 function setup() {
   createCanvas(windowWidth, windowHeight);
   background(220);

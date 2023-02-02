@@ -1,3 +1,13 @@
+"use strict";
+/**************************************************************************
+  Noise Loop
+  REFERENCES:
+  # Dan Shiffman’s Coding Train Polar Perlin Noise Loops: https://youtu.be/ZI1dmHv3MeM
+  created 02 Feb 2023
+  modified 02 Feb 2023
+  by I-Jon Hsieh
+ **************************************************************************/
+
 let t = 0;
 
 function setup() {

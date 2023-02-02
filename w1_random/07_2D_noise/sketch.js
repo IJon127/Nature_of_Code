@@ -1,3 +1,14 @@
+"use strict";
+/**************************************************************************
+  P5 2D Perlin Noise 
+  REFERENCES:
+  # Nature of Code 2nd Edition Introduction : https://nature-of-code-2nd-edition.netlify.app/introduction/
+  # Dan Shiffman’s Coding Train 2D Perlin Noise Tutorial: https://youtu.be/ikwNrFvnL3g
+  created 01 Feb 2023
+  modified 01 Feb 2023
+  by I-Jon Hsieh
+ **************************************************************************/
+
 let incrementSlider;
 let detailSlider;
 
